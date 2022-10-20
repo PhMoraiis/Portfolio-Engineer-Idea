@@ -9,4 +9,4 @@ Os frameworks utilizados foram o Bootstrap, biblioteca para o CSS e o ScrollReve
 
 ## Imagem do Projeto Finalizado
 
-<img src="assets/src/Projeto.jpeg" alt="Imagem do Projeto Finalizado"/>
+<img src="assets/src/ProjetoFinalizado.jpeg" alt="Imagem do Projeto Finalizado"/>
