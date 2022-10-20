@@ -1,5 +1,5 @@
 # enginner-portfolio
-## Projeto realizado com a intuição de ser um portfólio para Engenheiros ou Arquitetos
+## Projeto de estudo realizado com a intuição de ser um portfólio para Engenheiros ou Arquitetos
 
 Responsividade
 O portfólio é totalmente responsivo para smartphones, tablets e desktops.
